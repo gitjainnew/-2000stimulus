@@ -15,7 +15,7 @@ $2000 Stimulus Check: Latest Update and How to Claim
    :align: center
    :height: 100px
    :alt: $2000 stimulus check application
-   :target: https://www.google.com/url?q=https%3A%2F%2Fbcetsamba.in%2Fhow-to-claim-2000-stimulus-check%2F&sa=D&sntz=1&usg=AOvVaw1u4eX1uY4wuifnJc3esS6f
+   :target: https://www.google.com/url?q=https%3A%2F%2Fbcetsamba.in%2F2000-stimulus-check-latest-updates-eligibility-how-to-get-your-payment%2F&sa=D&sntz=1&usg=AOvVaw3Bq8CosdS1EixV7QdZvvcp
 
 .. image:: blank.png
    :width: 350px
