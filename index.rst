@@ -39,7 +39,7 @@ How to Check Eligibility and Claim the $2000 Stimulus
 
 To prepare for the possible release of the $2000 stimulus payment, follow these steps:
 
-#. Visit the official IRS portal: [irs.gov](https://www.irs.gov/)
+#. Visit the official IRS portal: https://www.irs.gov
 #. Look for updates under the "Economic Impact Payments" section.
 #. Ensure your tax filings (2023 or 2024) are up to date.
 #. Confirm your direct deposit information is current in the IRS database.
@@ -77,7 +77,7 @@ Frequently Asked Questions
     No, if your info is current with the IRS, future payments will be automatic.
 
 **Where can I check for real updates?**  
-    Use [irs.gov](https://www.irs.gov/) or [benefits.gov](https://www.benefits.gov/) for official announcements.
+    Use https://www.irs.gov or https://www.benefits.gov for official announcements.
 
 .. footer::
    © 2025 Economic Relief Program
